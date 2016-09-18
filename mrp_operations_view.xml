@@ -59,6 +59,7 @@
                     <field name="production_id" on_change="onchange_production_id(production_id)"/>
                     <field name="production_state"/>
                     <field name="sequence"/>
+                    <field name="routing_workcenter_id"/>
                 </group>
                 <notebook>
                 <page string="Information">
